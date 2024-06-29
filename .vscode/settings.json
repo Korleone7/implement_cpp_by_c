@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "string.h": "c",
+        "assert.h": "c",
+        "stdio.h": "c",
+        "vehicle.h": "c",
+        "car.h": "c",
+        "electric_car.h": "c",
+        "car_common.h": "c",
+        "oil_car.h": "c",
+        "tesla_electric_car.h": "c",
+        "gf_event_bus.h": "c",
+        "event_bus.h": "c"
+    }
+}
